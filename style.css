@@ -14,3 +14,14 @@
   --neutral-dark-blue: hsl(213, 19%, 18%);
   --neutral-verydark-blue:hsl(216, 12%, 8%);
 }
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  height: 100vh;
+  background-color: var(--neutral-verydark-blue);
+  font-family: "Overpass", sans-serif;
+}
