@@ -25,3 +25,7 @@ body {
   background-color: var(--neutral-verydark-blue);
   font-family: "Overpass", sans-serif;
 }
+
+#container {
+  background-color: var(--neutral-medium-grey);
+}
