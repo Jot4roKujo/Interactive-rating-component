@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Jot4roKujo/Interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://jot4rokujo.github.io/Interactive-rating-component/)
+- Solution URL: [Github/Jot4roKujo](https://github.com/Jot4roKujo/Interactive-rating-component)
+- Live Site URL: [https://jot4rokujo.github.io](https://jot4rokujo.github.io/Interactive-rating-component/)
 
 ## My process
 
