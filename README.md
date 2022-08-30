@@ -18,6 +18,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Overview
 
+## Preview
+
 ![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
 
 ### The challenge
